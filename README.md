@@ -1,0 +1,2 @@
+# thecapstone--django
+Django project 
